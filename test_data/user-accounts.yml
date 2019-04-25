@@ -1,0 +1,14 @@
+# User Details test data
+
+login_cfsuser:     
+    email: vsb_cfs
+    password: "12345678"
+    
+
+login_customuser:
+    email_custom: custom_user
+    password_custom: "123456789"
+    
+login_groupuser:
+    email_group1: group3
+    password_group1: "12345678"    
